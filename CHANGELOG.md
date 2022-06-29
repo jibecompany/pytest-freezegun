@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.4.3] - 2022-06-29
+### Fixed
+- Fixed warning due to usage of distutils.
+### Added
+- Add support for Python 3.9.
+
 ## [0.4.2] - 2020-07-19
 ### Fixed
 - Work with pre-release pytest versions, by [chandlernine](https://github.com/chandlernine), with a different implementation proposed by [Aly Sivji](https://github.com/alysivji).
